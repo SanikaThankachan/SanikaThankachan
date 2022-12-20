@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m SanikaThankachan</h1> <br>
+<h1>👋 Hi, I’m SanikaThankachan</h1>
 - 👀 I’m interested in Mobile App development<br>
 - 🌱 I’m currently learning iOS development<br>
 - 📫 How to reach me 
